@@ -5,5 +5,6 @@ public class TestController {
         System.out.println("Hello git!");
         System.out.println("Hello git dev!");
         System.out.println("Hello git test!");
+        System.out.println("github第一次提交");
     }
 }
